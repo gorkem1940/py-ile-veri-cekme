@@ -25,5 +25,4 @@ if __name__ == "__main__":
         else:
             print("Dış ıp üzerinden veri alınamadı")
 
-        time.sleep(30)
- 
+        time.sleep(30) // otuz saniyede bir verileri yenile
